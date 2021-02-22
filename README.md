@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 -->
 
 
-Top Langs GitHub stats
-GitHub streak stats
-Profile views
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnyounus)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnyounus&show_icons=true)  
+
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adnyounus)  
+
+![Profile views](https://gpvc.arturio.dev/adnyounus)  
