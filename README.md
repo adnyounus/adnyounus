@@ -2,7 +2,7 @@
 
 
 I'm Adnan from Dhaka, Bangladesh and I do  App and Web Development. I really enjoy learning languages like Kotlin, Java, Python. I also enjoy Backend in general.
-Skills: Android / Kotlin / DJANGO / PYTHON / Java / C
+Skills: Android / Kotlin / PYTHON / Java / PHP / C
 
 - 🔭 I’m currently working on Android App Development
 - 🌱 I’m currently learning Kotlin Programming
