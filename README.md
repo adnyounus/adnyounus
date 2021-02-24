@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Md. Adnan Younus
 
 
-I'm Adnan from Dhaka, Bangladesh and I do  App and Web Development. I really enjoy learning languages like Kotlin, Java, Python. I also enjoy Backend in general.
+I'm from Dhaka, Bangladesh and I do  App and Web Development. I really enjoy learning languages like Kotlin, Java, Python. I also enjoy Backend in general.
 
 Skills: Android / Kotlin / Python / Java / PHP / C
 
